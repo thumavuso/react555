@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
       
         <p>
-          Welcome to BuildForSDG. Welcome!
+          Welcome to BuildForSDG. Welcome Everyone!
         </p>
         <a
           className="App-link"
